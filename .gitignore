@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Project specific
+*.pdf
+REV00_MARCOS_LAGUNA_EXECUTIVO.pdf
